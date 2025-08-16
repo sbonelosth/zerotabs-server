@@ -2,7 +2,7 @@ flask
 flask-cors
 flask-jwt-extended
 python-dotenv
-couchbase==4.1.8
+couchbase==4.1.10
 requests
 pydantic
 fastapi
