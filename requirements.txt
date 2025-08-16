@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-jwt-extended
+python-dotenv
+couchbase==4.1.8
+requests
+pydantic
+fastapi
+uvicorn
+python-multipart
+"pydantic[email]"
+passlib[bcrypt]
